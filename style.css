@@ -1,0 +1,11 @@
+.block{
+    background: red;
+height: 26px;
+width: 200px;
+border:4px double rgb(255, 255, 255);
+border-style:double;
+color: aliceblue;
+font-family:fantasy;
+border-radius: 5px;
+}
+
